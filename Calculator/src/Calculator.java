@@ -7,9 +7,9 @@ public class Calculator {
 		
 		return result;
 	}
-	public int minus( int num1,int num2){
+	public int sub( int num1,int num2){
 		int result1=0;
-		result1=num1-num2;
+		result1=num1*num2;
 		return result1;
 	}
 }
